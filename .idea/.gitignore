@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+
+# Project exclude paths
+/.
+
+/libraries/
+/codeStyles/
+modules.xml
+vcs.xml
